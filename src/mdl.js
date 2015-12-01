@@ -5,6 +5,6 @@ export {Layout, Header, HeaderRow, Title, Tabs, Tab, TabPanel, Drawer, Navigatio
 export {Button, Fab} from './button';
 export {Menu, MenuItem} from './menu';
 export {Grid, Cell} from './grid';
-export {ProgressBar} from './loading';
-export {TextInput} from './input';
+export {ProgressBar, Spinner} from './loading';
+export {TextInput, Checkbox, Radio, Switch, Toggle} from './input';
 export {Card, CardTitle, CardSupportingText} from './card';
