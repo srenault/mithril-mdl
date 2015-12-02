@@ -9,3 +9,4 @@ export {Grid, Cell} from './grid';
 export {ProgressBar, Spinner} from './loading';
 export {TextInput, Checkbox, Radio, Switch, Toggle} from './input';
 export {Card, CardTitle, CardSupportingText} from './card';
+export {List, ActionListItem, TwoLineListItem, ThreeLineListItem, IconListItem, ListItem, ControlListItem} from './list'
